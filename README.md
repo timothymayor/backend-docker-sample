@@ -27,4 +27,5 @@ Test that the project is running by going to <http://localhost:8000>
 
 If your frontend is not running in the same origin, run the server with `FRONT_URL=<front-url> npm start` (without < >) to allow cross-origin requests.
 
-## This is the Team Fedora Task Submit
+## Members of Team Fedora
+
