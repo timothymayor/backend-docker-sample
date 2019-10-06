@@ -34,4 +34,5 @@ If your frontend is not running in the same origin, run the server with `FRONT_U
 4. Oluleke Olatunji (@Oluleke)
 5. Nedu Robert (@NeduR)
 6. Obayagbona Uwagbae Alexander (@Alex Uwa)
+7. Tunji Adeleye
 
