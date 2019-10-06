@@ -10,7 +10,7 @@ RUN npm install
 # COPY . ./app
 COPY . /app
 
-EXPOSE 8000 
+EXPOSE 8800 
 
 # CMD [ "npm", "start"]
 CMD node index.js
