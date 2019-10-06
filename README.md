@@ -28,11 +28,5 @@ Test that the project is running by going to <http://localhost:8000>
 If your frontend is not running in the same origin, run the server with `FRONT_URL=<front-url> npm start` (without < >) to allow cross-origin requests.
 
 ## Members of Team Fedora
-1. Timothy Mayor (@Timothy Mayor) - Team Lead
-2. Sydney J. Ekpo (@Sydney)
-3. Bayo Duduyemi (@Blaqnificent)
-4. Oluleke Olatunji (@Oluleke)
-5. Nedu Robert (@NeduR)
-6. Obayagbona Uwagbae Alexander (@Alex Uwa)
-7. Tunji Adeleye
+
 
