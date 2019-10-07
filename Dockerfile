@@ -12,8 +12,8 @@ COPY . /app
 
 EXPOSE 8800 
 
-CMD [ "npm", "start"]
-# CMD node index.js
+# CMD [ "npm", "start"]
+CMD node index.js
 
 RUN touch logs.txt 
 
