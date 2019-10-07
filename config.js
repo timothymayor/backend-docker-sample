@@ -9,7 +9,7 @@ module.exports.DB = {
     host: process.env.DB_HOST || 'localhost'
 }
 
-module.exports.PORT = process.env.PORT || 8800
+module.exports.PORT = process.env.PORT || 9000
 
 module.exports.FRONT_URL = process.env.FRONT_URL || ""
 
